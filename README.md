@@ -1,1 +1,1 @@
-net-grpc
+Wrote a quick .NET gRPC client to learn the protocol in .NET and to see if I could hook into a Go gRPC service.
